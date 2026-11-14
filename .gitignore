@@ -49,3 +49,9 @@ flycheck_*.el
 
 # undo-tree
 *.~undo-tree~
+
+# native compilation cache
+/eln-cache/
+
+# tree-sitter
+/tree-sitter/
